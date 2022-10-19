@@ -1,0 +1,16 @@
+{
+    "name": "thaivietnguyen/package-test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Thaivietnguyen\\PackageTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prNguyenVietThai",
+            "email": "thai.nguyenviet@prtimes.co.jp"
+        }
+    ],
+    "require": {}
+}
